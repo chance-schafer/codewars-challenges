@@ -1,3 +1,3 @@
-// Function 1 - hello world
+//Function 1 - hello world
 
-const greet = () => 'hello world!'
+const greet = () => "hello world!";
